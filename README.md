@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ipek Dede</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.pixabay.com/photo/2023/02/15/20/01/ai-generated-7792597_1280.jpg">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/736x/97/ed/e9/97ede9619a669eacaa11a33a470e19f4.jpg">
 
 - 🔭 Currently, I am a master's student in **Software Engineering and Data Science at Izmir Institute of Technology**
 
