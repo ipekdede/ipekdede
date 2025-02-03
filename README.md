@@ -6,7 +6,7 @@
 
 - 🌱 I am a student in the **Timus Full Stack Developer Bootcamp** organized by Patika.dev.
 
-- 📫 How to reach me **ipekurun.96@hotmail.com**
+- 📫 How to reach me **ipek.dede96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
